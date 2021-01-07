@@ -1,5 +1,5 @@
 # AlgorithmsProjects
-CS700 Algorithms Projects
+Algorithms
 
 Sorting: Generating random numbers and using different sorting algorithms to sort.
 
